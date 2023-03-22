@@ -7,3 +7,5 @@ I am student of computer science at the Gdańsk University of Technology. Learni
 - Worktime Measurer - coming soon
 - Concurrent Processes
 - Text Command Parser
+- Console Image Drawer
+
