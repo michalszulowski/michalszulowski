@@ -1,10 +1,10 @@
 # Hi, I am Michał
 
-I am student of computer science at the Gdańsk University of Technology. Learning and training to became Java developer. STRONGLY focusing on writing clean code. Also experimenting with Python and Bash.
+I am computer science student at the Gdańsk University of Technology. Learning and training to became Java developer. STRONGLY focusing on writing clean and extensible code. Also experimenting with Python and Bash. Linux enjoyer.
 
 ## Projects
 
-- Worktime Measurer - coming soon
+- 🌟 Worktime Measurer 🌟 - coming soon
 - Concurrent Processes
 - Text Command Parser
 - Console Image Drawer
