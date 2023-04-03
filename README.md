@@ -4,8 +4,8 @@ I am computer science student at the Gdańsk University of Technology. Learning 
 
 ## Projects
 
-- 🌟 Worktime Measurer 🌟 - coming soon
-- Concurrent Processes
-- Text Command Parser
-- Console Image Drawer
+- 🌟 [Worktime Measurer](https://github.com/michalszulowski/worktime-measurer) 🌟
+- [Concurrent Processes](https://github.com/michalszulowski/concurrent-processes)
+- [Text Command Parser](https://github.com/michalszulowski/worktime-measurer)
+- [Console Image Drawer](https://github.com/michalszulowski/worktime-measurer)
 
