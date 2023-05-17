@@ -11,3 +11,11 @@ I am computer science student at the Gdańsk University of Technology. Learning 
 
 ## Technologies
 
+- Java
+- SQL
+- JUnit
+- Maven
+- Linux
+- Python
+- C++
+- Bash
